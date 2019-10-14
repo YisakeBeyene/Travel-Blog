@@ -1,0 +1,18 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\bin\Debug\InsureModel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\bin\Debug\InsureModel.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\obj\Debug\InsureViewModel.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\ViewModel.dll
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\ViewModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\InsureModel.dll
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\InsureModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\obj\Debug\InsureViewModel.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\obj\Debug\ViewModel.dll
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\obj\Debug\ViewModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\SimretProject\Project1\ViewModel\bin\Debug\MySql.Data.xml

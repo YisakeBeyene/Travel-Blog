@@ -1,0 +1,14 @@
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\InsureModel\bin\Debug\InsureModel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\InsureModel\bin\Debug\InsureModel.pdb
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\InsureModel\obj\Debug\InsureModel.csprojResolveAssemblyReference.cache
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\InsureModel\obj\Debug\InsureModel.dll
+C:\Users\123\Documents\Visual Studio 2015\Projects\Project1\InsureModel\obj\Debug\InsureModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\bin\Debug\InsureModel.dll
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\bin\Debug\InsureModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\obj\Debug\InsureModel.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\obj\Debug\InsureModel.dll
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\obj\Debug\InsureModel.pdb
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\SimretProject\Project1\InsureModel\bin\Debug\MySql.Data.xml

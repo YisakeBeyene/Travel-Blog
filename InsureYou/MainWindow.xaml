@@ -1,0 +1,50 @@
+﻿<Window x:Class="InsureYou.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InsureYou"
+        mc:Ignorable="d"
+        x:Name="WagwagoPLC"
+        WindowStartupLocation="CenterScreen"
+            xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="MainWindow" Height="500" Width="400" MaxWidth="500" MaxHeight="500" WindowStyle="None">
+    <Grid >
+
+
+        <Rectangle Height="250" VerticalAlignment="Top" Margin="-5">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD14A22"/>
+                    <GradientStop Color="#FF5D2F21" Offset="1"/>
+                    <GradientStop Color="#FFD14A22" Offset="0.5"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+
+        </Rectangle>
+        <materialDesign:PackIcon Kind="Account" Width="100" Height="100" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0 0 0 90" Foreground="White"/>
+        <!--<Frame x:Name="main" />-->
+        <Grid Width="50" Height="50"  VerticalAlignment="Top" HorizontalAlignment="Right" >
+            <Border BorderThickness="3" CornerRadius="10" Name="mask"/>
+            <Button x:Name="ButtonExit" Click="ButtonExit_Click" Content="x" FontSize="20"  VerticalAlignment="Center"  HorizontalAlignment="Center" Margin="10" Width="50" Height="50" BorderBrush="{x:Null}" Background="#FFE41414" Foreground="White" BorderThickness="1,1,1,1"  />
+        </Grid>
+        <Rectangle Width="280" Height="240" Fill="White" RenderTransformOrigin="0.5,0.5" RadiusY="20.3" RadiusX="20.3">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1" ScaleX="1"/>
+                    <SkewTransform AngleY="0" AngleX="0"/>
+                    <RotateTransform Angle="0"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Effect>
+                <DropShadowEffect Color="#FFBBBBBB" Direction="0" BlurRadius="25" RenderingBias="Quality" ShadowDepth="1"/>
+            </Rectangle.Effect>
+        </Rectangle>
+        <Grid Width="280" Height="240">
+            <Frame x:Name="main" />
+        </Grid>
+
+        <Button x:Name="new" VerticalAlignment="Bottom" Margin="0,70" Click="new_Click" KeyDown="Window_KeyDown"  FontFamily="Sans-serif" Content="Login"   Width="100" Height="30" HorizontalAlignment="Center"    />
+    </Grid>
+</Window>
